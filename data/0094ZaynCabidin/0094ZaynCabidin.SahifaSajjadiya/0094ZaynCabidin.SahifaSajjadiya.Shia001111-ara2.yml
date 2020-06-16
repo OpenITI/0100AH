@@ -2,7 +2,7 @@
 00#VERS#LENGTH###: 120158
 00#VERS#URI######: 0094ZaynCabidin.SahifaSajjadiya.Shia001111-ara2
 80#VERS#BASED####: http://www.worldcat.org/oclc/4771363986
-80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771363986
 80#VERS#LINKS####: http://alfeker.net/library.php?id=3886
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: This edition contains much additional material
@@ -18,5 +18,5 @@
     into one volume, most notably al-Ṣaḥifa 
     al-Sajjādiya al-jāmeʿa of Moḥammad-Bāqer Abṭaḥi." 
     (http://www.iranicaonline.org/articles/sahifa-al-sajjadiya)
-90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#DATE#####: 2020-06-16
 90#VERS#ISSUES###: formalized issues, separated with commas
